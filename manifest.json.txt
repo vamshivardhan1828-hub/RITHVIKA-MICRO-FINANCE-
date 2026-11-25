@@ -1,0 +1,24 @@
+{
+  "name": "RITHVIKA MICRO FINANCE",
+  "short_name": "RITHVIKA",
+  "description": "RITHVIKA Micro Finance - Loans & Services",
+  "start_url": "/RITHVIKA-MICRO-FINANCE-/",
+  "scope": "/RITHVIKA-MICRO-FINANCE-/",
+  "display": "standalone",
+  "background_color": "#0b1e4b",
+  "theme_color": "#0b1e4b",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
